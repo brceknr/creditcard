@@ -1,0 +1,1 @@
+- Kredi kartınız üzerindeki bilgileri girmeniz ve ödeme yapmanız istenmektedir.

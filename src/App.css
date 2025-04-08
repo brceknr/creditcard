@@ -1,0 +1,91 @@
+body {
+  background-color: white;
+  color: black;
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: white;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  width: 300px;
+  height: 280px;
+}
+.header {
+  text-align: left;
+  margin-bottom: 5px;
+}
+h8 {
+  font-size: 15px;
+
+  color: black;
+  font-weight: bold;
+  margin-left: 0px;
+}
+h2 {
+  font-size: 8px;
+  color: gray;
+}
+h4 {
+  font-size: 8px;
+  color: black;
+}
+input {
+  width: 90%;
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: white;
+  font-size: 8px;
+  color: black;
+}
+.footer {
+  display: flex;
+  gap: 30px;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  font-size: 8px;
+  color: black;
+  font-family: sans-serif;
+}
+
+h5 {
+  font-size: 8px;
+  color: rgb(10, 10, 10);
+  margin-left: 0px;
+  margin-bottom: 1px;
+}
+
+select {
+  width: 80px;
+  padding: 5px;
+  font-size: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: white;
+  color: black;
+}
+.cvv {
+  width: 50px;
+  padding: 5px;
+  font-size: 8px;
+  border-radius: 4px;
+  background-color: white;
+  color: black;
+}
+.btn {
+  background-color: black;
+  color: white;
+  padding: 7px 10px;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+  font-size: 8px;
+  font-family: sans-serif;
+  width: 100%;
+  margin-top: 20px;
+}
